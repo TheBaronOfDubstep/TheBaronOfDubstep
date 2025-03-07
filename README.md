@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBaronOfDubstep. I really don't like Dubstep.
-- 👀 I’m interested in backend development, F-16 flightsim/milsim  and craft beer.
-- 🌱 I’m currently learning a lot.
+- 👀 I’m interested in development (fullstack with Vue and .net), F-16 flightsim/milsim  and craft beer.
+- 🌱 I’m currently learning more than a lot.
 - 📫 How to reach me: ping me here or on twitter. If urgent, please make any reference to dubstep music, and I will get back to you promptly.
 
 <!---
